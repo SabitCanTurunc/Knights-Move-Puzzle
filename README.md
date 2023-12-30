@@ -20,15 +20,18 @@ Bu Python projesi, pygame kütüphanesi kullanılarak geliştirilmiş basit bir 
 - At, satranç tahtasındaki geçerli hareket kurallarına göre hareket eder.
 - Oyun, atın her hücreyi sadece bir kez ziyaret etmesi durumunda kazanılır.
 
-## Ekran Görüntüleri
+## Oyun içi görüntüler
 
--Tahtanın büyüklüğünü seçin
+-Tahtanın büyüklüğünü yazın.
+
 ![kare sayısı](https://github.com/SabitCanTurunc/Python/assets/114212366/3e476d35-2de1-49c4-a896-8eb9c2dcd1f0)
 
--Oyun sizi rastgele bir kutuya yerleştirecektir
+-Oyun sizi rastgele bir kutuya yerleştirecektir.
+
 ![oyun ekranı](https://github.com/SabitCanTurunc/Python/assets/114212366/c2418840-6cd2-4f8d-971a-3c9d01db2af7)
 
--Tüm kutuları gezene kadar, satrançtaki At karakteri kuralıyla, L şeklinde hareket edecek şekilde bir sonraki gitmek istediğiniz kareye tıklayın.
+-Tüm kutuları gezme amacıyla gitmek istediğiniz bir sonraki kareye tıklayın.
+
 ![image](https://github.com/SabitCanTurunc/Python/assets/114212366/b81ca971-dd94-4b1b-9220-546e5e450841)
 
 
